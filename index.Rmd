@@ -1,0 +1,24 @@
+---
+title: "Mansour Abdoli, PhD"
+description: |
+  Welcome to the website!
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+This portfolio showcases my work on development of practical tools that I use in teaching statistics and applying it to research. My focus in on Transparency, Reproducibility, and of course, Automation and Reusability
+
+
+
+## Acknowledgement
+The work is partially supported by a Jr.Sr. Grant awarded through the Office of Research and Sponsored Projects (ORSP) at CSUF.
