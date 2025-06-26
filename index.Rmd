@@ -1,7 +1,7 @@
 ---
 title: "Mansour Abdoli, PhD"
 description: |
-  Welcome to the website!
+  Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
 ---
 
@@ -16,9 +16,3 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-This portfolio showcases my work on development of practical tools that I use in teaching statistics and applying it to research. My focus in on Transparency, Reproducibility, and of course, Automation and Reusability
-
-
-
-## Acknowledgement
-The work is partially supported by a Jr.Sr. Grant awarded through the Office of Research and Sponsored Projects (ORSP) at CSUF.
