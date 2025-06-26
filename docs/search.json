@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2025-06-26T09:25:46-07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Mansour Abdoli, PhD",
+      "description": "Welcome to the website!\n",
+      "author": [],
+      "contents": "\nThis portfolio showcases my work on development of practical tools that I use in teaching statistics and applying it to research. My focus in on Transparency, Reproducibility, and of course, Automation and Reusability\nAcknowledgement\nThe work is partially supported by a Jr.Sr. Grant awarded through the Office of Research and Sponsored Projects (ORSP) at CSUF.\n\n\n\n",
+      "last_modified": "2025-06-26T09:26:54-07:00"
+    }
+  ],
+  "collections": []
+}
