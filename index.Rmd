@@ -1,21 +1,5 @@
 ---
 title: "Mansour Abdoli, PhD"
-description: |
-  Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
+listing: posts
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-
-```
-
-# [Mansour Abdoli, PhD](manabdoli.github.io)
-## Welcome!
-This portfolio showcases my work on development of practical tools that I use in teaching statistics and applying it to research. My focus in on Transparency, Reproducibility, and of course, automation.
