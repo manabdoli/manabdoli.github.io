@@ -2,20 +2,19 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2025-06-28T11:23:11-07:00"
+      "last_modified": "2025-06-28T13:08:03-07:00"
     },
     {
       "path": "index.html",
       "title": "Mansour Abdoli, PhD",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\nMansour Abdoli, PhD\nWelcome!\nThis portfolio showcases my work on development of practical tools that I use in teaching statistics and applying it to research. My focus in on Transparency, Reproducibility, and of course, automation.\n\n\n\n",
-      "last_modified": "2025-06-28T11:33:26-07:00"
+      "contents": "\n\n\n\n",
+      "last_modified": "2025-06-28T13:08:03-07:00"
     }
   ],
-  "collections": []
+  "collections": ["posts/posts.json"]
 }
