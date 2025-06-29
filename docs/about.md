@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I'm a statistician with a multidisciplinary background (EE, IE, and Stat) and interests in
-statistical analysis, pedagogy, and collaborative research across diverse
+I'm a full-time instructor at CSUF and a statistician with a multidisciplinary
+background (EE, IE, and Stat) and interests in statistical analysis, pedagogy, 
+and collaborative research across diverse
 domains.
 
 I also enjoy creating simple tools to help me with teaching, mentoring, and research. This site is a space where I share my work, ideas, and resources.

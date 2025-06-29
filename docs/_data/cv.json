@@ -1,0 +1,72 @@
+{
+  "basics": {
+    "name": "Mansour Abdoli",
+    "label": "Statistition and Instructor",
+    "picture": "",
+    "email": "mabdoli@fullerton.edu",
+    "phone": "",
+    "website": "https://manabdoli.github.io",
+    "summary": "Mansour, a full-time instructor and course coordinator at CSUF, interested in statistical data analysis and prediction methods, and employing science of learning in developing course materials.",
+    "location": {
+      "address": "800 N, State College Blvd",
+      "postalCode": "CA 92604",
+      "city": "Fullerton",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Instagram",
+        "username": "MansourAbdoliPhD",
+        "url": "https://www.instagram.com/mansourabdoliphd"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "California State University, Fullerton (CSUF)",
+      "position": "Full-time instructor, Course Coordinator",
+      "website": "https://manabdoli.github.io",
+      "startDate": "2016-08-01",
+      "endDate": "",
+      "summary": "Teaching and coordinating an Intermidiary Statistics Course; Developing Course Materials; Mentoring Students; Data Analysis"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Sharief Univeristy of Technology Association",
+      "position": "Borad Member and Treasurer",
+      "website": "https://suta.org",
+      "startDate": "2023-05-15",
+      "endDate": "",
+      "summary": "Serving as Treasurer and the lead for the Communication and Awards Committees"
+    }
+  ],
+  "education": [
+    {
+      "institution": "California State Univeristy, Fullerton",
+      "area": "Statistics",
+      "studyType": "Masters of Science",
+      "endDate": "2016-05-15",
+      "gpa": "4.0"
+    },
+    {
+      "institution": "University of Nebraska, Lincoln",
+      "area": "Industrial & Management Systems Engineering",
+      "studyType": "MS & PhD",
+      "endDate": "2006"
+    },
+    {
+      "institution": "Iran University of Science and Technology",
+      "area": "Electrical Engineering",
+      "studyType": "MS",
+      "endDate": "1996"
+    },
+    {
+      "institution": "Sharif University of Technology",
+      "area": "Electrical Engineering",
+      "studyType": "MS & PhD",
+      "endDate": "1991"
+    }
+  ]
+}
