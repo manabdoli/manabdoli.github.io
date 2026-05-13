@@ -1,0 +1,31 @@
+---
+title: "Research"
+bibliography: orcid.bib
+csl: apa.csl
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+# Research Overview
+
+My research spans applied statistics, simulation, educational technology, and interdisciplinary collaborations in biology and engineering. This page automatically lists my publications from ORCID.
+
+## Publications
+
+::: {.callout-note}
+This list is automatically generated from my ORCID profile:  
+**[ORCID: 0009-0001-6722-0134](https://orcid.org/0009-0001-6722-0134)**
+:::
+
+```{r}
+#| echo: false
+# This chunk is optional — it simply prints the bibliography
+```
+
+## References
+
+::: {#refs}
+:::
+```

@@ -19,3 +19,5 @@ Gemfile.lock
 .Rproj.user
 .positai
 .DS_Store
+/.quarto/
+**/*.quarto_ipynb

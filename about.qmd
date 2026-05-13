@@ -1,0 +1,50 @@
+---
+title: "Home"
+page-layout: article
+---
+
+
+# Mansour Abdoli, PhD
+
+Instructor & Course Coordinator • California State University, Fullerton  
+Statistician • Educator • Developer of Teaching Tools
+
+::: {.callout-note}
+**Quick Links**  
+- [Curriculum Vitæ](cv.qmd)  
+- [Résumé](resume.qmd)  
+- [Research](research.qmd)  
+:::
+
+---
+
+## About Me
+
+I am a statistician and educator with a multidisciplinary background in electrical engineering, industrial engineering, and statistics. I teach probability and statistics at CSUF and develop reproducible, student‑centered instructional materials, including WebR‑enabled tools and interactive course content.
+
+My work focuses on transparency, reproducibility, and automation in teaching and applied research.
+
+---
+
+## Recent Posts
+
+```{=html}
+<!-- Quarto automatically generates this listing -->
+```
+
+```{listing}
+contents: posts
+sort: "date desc"
+max-items: 5
+```
+
+---
+
+## Current Projects
+
+- Developing WebR‑based interactive teaching tools  
+- Building reproducible course templates for Math 338  
+- Collaborating with biology faculty on applied statistical research  
+- Creating modular Quarto workflows for teaching and research  
+
+---
