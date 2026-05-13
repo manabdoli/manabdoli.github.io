@@ -1,0 +1,12 @@
+/* Styles for cropping banner image */
+.banner-crop {
+  height: 300px;  /* shows only 50% (or 300px if that is used) */
+  overflow: hidden; /* crops the rest */
+}
+
+.banner-crop img {
+  /* to keep the banner on top */
+  width: 100%;
+  object-fit: cover;
+  object-position: top;
+}
