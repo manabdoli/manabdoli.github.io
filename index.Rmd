@@ -1,5 +1,0 @@
----
-title: "Mansour Abdoli, PhD"
-site: distill::distill_website
-listing: posts
----
