@@ -42,7 +42,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-1c33c0780a01951c1c2d77b4a45239a1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -73,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-recent-post .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -86,7 +86,7 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-recent-post'] = new List('listing-recent-post', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -174,6 +174,10 @@ window.Quarto = {
     <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./posts.html"> 
+<span class="menu-text">Blog</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -216,16 +220,19 @@ window.Quarto = {
 <p>This portfolio showcases my work on development of practical tools that I use in teaching statistics and applying it to research. My focus is on transparency, reproducibility, and automation.</p>
 <section id="recent-posts" class="level2">
 <h2 class="anchored" data-anchor-id="recent-posts">Recent Posts</h2>
-<!-- Quarto will replace this with a listing -->
+<div id="recent-posts">
+
+</div>
+<p><a href="./posts.html">View all posts →</a></p>
 
 
 
 </section>
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="quarto-listing quarto-listing-container-default" id="listing-recent-post">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Q291cnNlLU1hdGVyaWFsJTJDV2ViUi1Ub29s" data-listing-date-sort="1778696220000" data-listing-file-modified-sort="1778708614830" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="41">
+<div class="quarto-post image-right" data-index="0" data-categories="Q291cnNlLU1hdGVyaWFsJTJDV2ViUi1Ub29s" data-listing-date-sort="1778696220000" data-listing-file-modified-sort="1778700302267" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="41">
 <div class="thumbnail"><a href="./posts/2026-05-13-CSUF-CourseKata.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -247,7 +254,7 @@ May 13, 2026
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="Ui1wYWNrYWdl" data-listing-date-sort="1751163554000" data-listing-file-modified-sort="1778708614830" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
+<div class="quarto-post image-right" data-index="1" data-categories="Ui1wYWNrYWdl" data-listing-date-sort="1751163554000" data-listing-file-modified-sort="1778700300307" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
 <div class="thumbnail"><a href="./posts/2025-06-28-du4tnr.html" class="no-external">
 
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>

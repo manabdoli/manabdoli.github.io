@@ -49,8 +49,6 @@ div.csl-indent {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -61,7 +59,7 @@ div.csl-indent {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-1c33c0780a01951c1c2d77b4a45239a1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -89,35 +87,6 @@ div.csl-indent {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 
 
 </head>
@@ -162,6 +131,10 @@ div.csl-indent {
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./posts.html"> 
+<span class="menu-text">Blog</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -234,89 +207,12 @@ Note
 <div id="refs" role="list">
 
 </div>
-<pre><code>
 
-
-
-:::{#quarto-navigation-envelope .hidden}
-[Mansour Abdoli]{.hidden .quarto-markdown-envelope-contents render-id="cXVhcnRvLWludC1zaWRlYmFyLXRpdGxl"}
-[Mansour Abdoli]{.hidden .quarto-markdown-envelope-contents render-id="cXVhcnRvLWludC1uYXZiYXItdGl0bGU="}
-[Home]{.hidden .quarto-markdown-envelope-contents render-id="cXVhcnRvLWludC1uYXZiYXI6SG9tZQ=="}
-[/index.html]{.hidden .quarto-markdown-envelope-contents render-id="cXVhcnRvLWludC1uYXZiYXI6L2luZGV4Lmh0bWw="}
-[Research]{.hidden .quarto-markdown-envelope-contents render-id="cXVhcnRvLWludC1uYXZiYXI6UmVzZWFyY2g="}
-[/research.html]{.hidden .quarto-markdown-envelope-contents render-id="cXVhcnRvLWludC1uYXZiYXI6L3Jlc2VhcmNoLmh0bWw="}
-[CV]{.hidden .quarto-markdown-envelope-contents render-id="cXVhcnRvLWludC1uYXZiYXI6Q1Y="}
-[/cv.html]{.hidden .quarto-markdown-envelope-contents render-id="cXVhcnRvLWludC1uYXZiYXI6L2N2Lmh0bWw="}
-[Résumé]{.hidden .quarto-markdown-envelope-contents render-id="cXVhcnRvLWludC1uYXZiYXI6UsOpc3Vtw6k="}
-[/resume.html]{.hidden .quarto-markdown-envelope-contents render-id="cXVhcnRvLWludC1uYXZiYXI6L3Jlc3VtZS5odG1s"}
-[About]{.hidden .quarto-markdown-envelope-contents render-id="cXVhcnRvLWludC1uYXZiYXI6QWJvdXQ="}
-[/about.html]{.hidden .quarto-markdown-envelope-contents render-id="cXVhcnRvLWludC1uYXZiYXI6L2Fib3V0Lmh0bWw="}
-:::
-
-
-:::{#quarto-listing-pipeline .hidden}
-[$e = mC^2$]{.hidden .quarto-markdown-envelope-contents render-id="cXVhcnRvLWVuYWJsZS1tYXRoLWlubGluZQ=="}
-
-:::{.hidden .quarto-markdown-envelope-contents render-id="cGlwZWxpbmUtbGlzdGluZy1saXN0aW5n"}
-
-
-::: {.list .quarto-listing-default}
-
-::: {.quarto-post .image-right data-index='0' data-categories='Q291cnNlLU1hdGVyaWFsJTJDV2ViUi1Ub29s' data-listing-date-sort='1778696220000' data-listing-file-modified-sort='1778708614830' data-listing-date-modified-sort='NaN' data-listing-reading-time-sort='1' data-listing-word-count-sort='41'}
-
-```{=html}
-&lt;div class="thumbnail"&gt;&lt;a href="/posts/2026-05-13-CSUF-CourseKata.qmd" class="no-external"&gt;
-
-&lt;!-- img(9CEB782EFEE6)[progressive=false, height=]:listing:posts/2026-05-13-CSUF-CourseKata.html --&gt;
-
-&lt;/a&gt;&lt;/div&gt;</code></pre>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2026-05-13-CSUF-CourseKata.html" class="no-external">Adopting CourseKata for Math 338 @ CSUF</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/2026-05-13-CSUF-CourseKata.html" class="no-external">
-Thanks to a grant from the Gates Foundation, we piloted using CourseKata’s innovative approach to teaching statistics in CSUF.
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2026-05-13-CSUF-CourseKata.html" class="no-external">
-<div class="listing-date">
-May 13, 2026
-</div>
-</a>
-</div>
-<p>:::</p>
-<div class="quarto-post image-right" data-index="1" data-categories="Ui1wYWNrYWdl" data-listing-date-sort="1751163554000" data-listing-file-modified-sort="1778708614830" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
-<div class="thumbnail"><a href="./posts/2025-06-28-du4tnr.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2025-06-28-du4tnr.html" class="no-external">Data Utility for Transparency &amp; Reproducibility</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/2025-06-28-du4tnr.html" class="no-external">
-This package was originally developed to assist student scholars in CSUF’s NAARE Program in producing sound statistical analysis while working with the NACC data.
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2025-06-28-du4tnr.html" class="no-external">
-<div class="listing-date">
-Jun 28, 2025
-</div>
-</a>
-</div>
-</div>
-<p>:::</p>
-<div class="listing-no-matching d-none">No matching items</div>
-<p>:::</p>
-<p>:::</p>
 
 </section>
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing"></div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
