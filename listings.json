@@ -1,21 +1,6 @@
 [
   {
-    "listing": "/dev/cv-new.html",
-    "items": []
-  },
-  {
-    "listing": "/dev/alternative links on about page.html",
-    "items": []
-  },
-  {
-    "listing": "/cv.html",
-    "items": [
-      "/posts/2026-05-13-CSUF-CourseKata.html",
-      "/posts/2025-06-28-du4tnr.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
+    "listing": "/resume.html",
     "items": [
       "/posts/2026-05-13-CSUF-CourseKata.html",
       "/posts/2025-06-28-du4tnr.html"
@@ -26,25 +11,7 @@
     "items": []
   },
   {
-    "listing": "/research.html",
-    "items": [
-      "/posts/2026-05-13-CSUF-CourseKata.html",
-      "/posts/2025-06-28-du4tnr.html"
-    ]
-  },
-  {
-    "listing": "/resume.html",
-    "items": [
-      "/posts/2026-05-13-CSUF-CourseKata.html",
-      "/posts/2025-06-28-du4tnr.html"
-    ]
-  },
-  {
-    "listing": "/posts/2025-06-28-du4tnr.html",
-    "items": []
-  },
-  {
-    "listing": "/about.html",
+    "listing": "/index.html",
     "items": [
       "/posts/2026-05-13-CSUF-CourseKata.html",
       "/posts/2025-06-28-du4tnr.html"
@@ -57,5 +24,38 @@
   {
     "listing": "/dev/about-0.html",
     "items": []
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/posts/2026-05-13-CSUF-CourseKata.html",
+      "/posts/2025-06-28-du4tnr.html"
+    ]
+  },
+  {
+    "listing": "/cv.html",
+    "items": [
+      "/posts/2026-05-13-CSUF-CourseKata.html",
+      "/posts/2025-06-28-du4tnr.html"
+    ]
+  },
+  {
+    "listing": "/dev/alternative links on about page.html",
+    "items": []
+  },
+  {
+    "listing": "/dev/cv-new.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/2025-06-28-du4tnr.html",
+    "items": []
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/posts/2026-05-13-CSUF-CourseKata.html",
+      "/posts/2025-06-28-du4tnr.html"
+    ]
   }
 ]

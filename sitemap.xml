@@ -1,40 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://manabdoli.github.io/dev/cv-new.html</loc>
-    <lastmod>2026-05-13T21:43:34.829Z</lastmod>
-  </url>
-  <url>
-    <loc>https://manabdoli.github.io/dev/alternative links on about page.html</loc>
-    <lastmod>2026-05-13T21:43:34.828Z</lastmod>
-  </url>
-  <url>
-    <loc>https://manabdoli.github.io/cv.html</loc>
-    <lastmod>2026-05-13T21:43:34.828Z</lastmod>
-  </url>
-  <url>
-    <loc>https://manabdoli.github.io/index.html</loc>
-    <lastmod>2026-05-13T21:43:34.829Z</lastmod>
+    <loc>https://manabdoli.github.io/resume.html</loc>
+    <lastmod>2026-05-13T21:43:34.831Z</lastmod>
   </url>
   <url>
     <loc>https://manabdoli.github.io/posts/2026-05-13-CSUF-CourseKata.html</loc>
     <lastmod>2026-05-13T21:43:34.830Z</lastmod>
   </url>
   <url>
-    <loc>https://manabdoli.github.io/research.html</loc>
-    <lastmod>2026-05-13T21:43:34.831Z</lastmod>
-  </url>
-  <url>
-    <loc>https://manabdoli.github.io/resume.html</loc>
-    <lastmod>2026-05-13T21:43:34.831Z</lastmod>
-  </url>
-  <url>
-    <loc>https://manabdoli.github.io/posts/2025-06-28-du4tnr.html</loc>
-    <lastmod>2026-05-13T21:43:34.830Z</lastmod>
-  </url>
-  <url>
-    <loc>https://manabdoli.github.io/about.html</loc>
-    <lastmod>2026-05-13T21:43:34.825Z</lastmod>
+    <loc>https://manabdoli.github.io/index.html</loc>
+    <lastmod>2026-05-13T21:43:34.829Z</lastmod>
   </url>
   <url>
     <loc>https://manabdoli.github.io/dev/banner-logo.html</loc>
@@ -43,5 +19,29 @@
   <url>
     <loc>https://manabdoli.github.io/dev/about-0.html</loc>
     <lastmod>2026-05-13T21:43:34.828Z</lastmod>
+  </url>
+  <url>
+    <loc>https://manabdoli.github.io/about.html</loc>
+    <lastmod>2026-05-13T21:43:34.825Z</lastmod>
+  </url>
+  <url>
+    <loc>https://manabdoli.github.io/cv.html</loc>
+    <lastmod>2026-05-13T21:43:34.828Z</lastmod>
+  </url>
+  <url>
+    <loc>https://manabdoli.github.io/dev/alternative links on about page.html</loc>
+    <lastmod>2026-05-13T21:43:34.828Z</lastmod>
+  </url>
+  <url>
+    <loc>https://manabdoli.github.io/dev/cv-new.html</loc>
+    <lastmod>2026-05-13T21:43:34.829Z</lastmod>
+  </url>
+  <url>
+    <loc>https://manabdoli.github.io/posts/2025-06-28-du4tnr.html</loc>
+    <lastmod>2026-05-13T21:43:34.830Z</lastmod>
+  </url>
+  <url>
+    <loc>https://manabdoli.github.io/research.html</loc>
+    <lastmod>2026-05-13T21:43:34.831Z</lastmod>
   </url>
 </urlset>
