@@ -4,6 +4,7 @@ project:
 website:
   title: "Mansour Abdoli"
   navbar:
+    logo: assets/images/Mansour-Logo.png
     left:
       - href: index.qmd
         text: Home

@@ -5,6 +5,7 @@ format:
   html:
     css: styles/styles.csss
 ---
+![](assets/imaMansourProfile.jpg){.hero}
 
 
 # [Mansour Abdoli](https://manabdoli.github.io)
