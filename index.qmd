@@ -2,7 +2,7 @@
 title: "Home"
 format:
   html:
-    css: styles/styles.csss
+    css: styles/styles.css
 ---
 
 <div class="banner-crop">

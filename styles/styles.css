@@ -1,6 +1,6 @@
 /* Styles for cropping banner image */
 .banner-crop {
-  height: 300px;  /* shows only 50% (or 300px if that is used) */
+  height: 250px;  /* shows only 50% (or 300px if that is used) */
   overflow: hidden; /* crops the rest */
 }
 
