@@ -1,8 +1,8 @@
 ---
 title: "Research"
 bibliography: 
-  - orcid.bib
-#  - works.bib
+#  - orcid.bib
+  - works.bib
 csl: styles/apa.csl
 nocite: |
   @*
