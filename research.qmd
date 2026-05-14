@@ -1,7 +1,11 @@
 ---
 title: "Research"
-bibliography: orcid.bib
+bibliography: 
+  - orcid.bib
+#  - works.bib
 csl: styles/apa.csl
+nocite: |
+  @*
 format:
   html:
     toc: true
@@ -29,4 +33,4 @@ This list is automatically generated from my ORCID profile:
 
 ::: {#refs}
 :::
-```
+

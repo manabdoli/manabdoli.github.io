@@ -1,0 +1,9 @@
+---
+title: "All Posts"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default # or 'table' for a compact archive look
+  categories: true # Adds a handy sidebar for tags/categories
+---
+

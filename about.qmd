@@ -1,6 +1,11 @@
 ---
 title: "Home"
-page-layout: article
+listing:
+  id: about-posts
+  contents: posts
+  sort: "date desc"
+  type: default
+  max-items: 2
 ---
 
 
@@ -30,15 +35,10 @@ My work focuses on transparency, reproducibility, and automation in teaching and
 
 ## Recent Posts
 
-```{=html}
-<!-- Quarto automatically generates this listing -->
-```
+::: {#about-posts}
+:::
 
-```{listing}
-contents: posts
-sort: "date desc"
-max-items: 5
-```
+[View all posts →](posts.qmd)
 
 ---
 
