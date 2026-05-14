@@ -4,6 +4,12 @@ title: "Home"
 format:
   html:
     css: styles/styles.css
+listing:
+  id: recent-post
+  contents: posts
+  sort: "date desc"
+  type: default
+  max-items: 5
 ---
 ![](assets/imaMansourProfile.jpg){.hero}
 
@@ -12,4 +18,7 @@ format:
 This portfolio showcases my work on development of practical tools that I use in teaching statistics and applying it to research. My focus is on transparency, reproducibility, and automation.
 
 ## Recent Posts
-<!-- Quarto will replace this with a listing -->
+::: {#recent-posts}
+:::
+
+[View all posts →](posts.qmd)

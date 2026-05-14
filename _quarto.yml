@@ -3,6 +3,9 @@ project:
   render:
     - "*.qmd"
 
+execute:
+  enabled: false
+
 website:
   title: "Mansour Abdoli"
   navbar:
@@ -18,13 +21,14 @@ website:
         text: Résumé
       - href: about.qmd
         text: About
-
+      - href: posts.qmd
+        text: Blog
 
 format:
   html:
     theme: cosmo
 
-# Enable blog-style posts
-listing:
-  contents: posts
-  sort: "date desc"
+# # Enable blog-style posts
+# listing:
+#   contents: posts
+#   sort: "date desc"
