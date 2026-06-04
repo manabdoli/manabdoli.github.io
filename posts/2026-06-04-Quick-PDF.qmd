@@ -1,0 +1,14 @@
+---
+title:  "Quick PDF"
+date:   2026-06-04 12:20:00 -0700
+categories: 
+  - Tools
+  - PDF
+---
+
+## Annotating PDF
+Adding an image, text, and signature to a PDF can be challenging. I used multiple gAI chat bots (Claude, Copilot, DeepSeek, and ChatGPT) to create [QuickPDF](https://manabdoli.github.io/quickpdf) in a day.
+
+It is a stand alone app and when downloaded, can be used without the internet.
+
+I hope it proves to be useful.
