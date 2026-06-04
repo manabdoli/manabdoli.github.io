@@ -11,7 +11,7 @@ listing:
   type: default
   max-items: 5
 ---
-![](assets/imaMansourProfile.jpg){.hero}
+![](assets/images/MansourProfile.jpg){.hero}
 
 
 # [Mansour Abdoli](https://manabdoli.github.io)
