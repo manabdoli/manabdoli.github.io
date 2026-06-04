@@ -20,6 +20,7 @@ Gemfile.lock
 
 /.quarto/
 **/*.quarto_ipynb
+quickpdf/
 
 .positai
 .DS_Store
