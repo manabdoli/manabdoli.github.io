@@ -1,13 +1,11 @@
 ---
 title: "Home"
+
 format:
   html:
     css: styles/styles.csss
 ---
 
-<div class="banner-crop">
-  <img src="assets/images/MansourProfile.jpg">
-</div>
 
 # [Mansour Abdoli](https://manabdoli.github.io)
 This portfolio showcases my work on development of practical tools that I use in teaching statistics and applying it to research. My focus is on transparency, reproducibility, and automation.

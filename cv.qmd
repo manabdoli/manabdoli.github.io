@@ -1,0 +1,188 @@
+---
+title: "Curriculum Vitæ"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+---
+
+# Mansour Abdoli, PhD
+
+**Instructor & Course Coordinator, California State University, Fullerton**  
+**Statistician • Educator • Developer of Teaching Tools**  
+[ORCID: 0009-0001-6722-0134](https://orcid.org/0009-0001-6722-0134)
+
+::: {.callout-note}
+`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`{.btn .btn-primary}
+:::
+
+---
+
+## Summary
+
+Mansour Abdoli is a lifelong learner who collaborates with colleagues to address challenges in education and research. He enjoys mentoring future professionals and teaching students of all backgrounds and abilities.
+
+He is currently a full‑time instructor and course coordinator at CSUF, teaching probability and statistics. His multidisciplinary background in electrical engineering, industrial engineering, and statistics supports his work in teaching, research, and engineering practice. He is also experienced in educational technology and has developed a wide range of instructional materials across multiple learning platforms.
+
+---
+
+## Education
+
+**M.S., Statistics** — California State University, Fullerton (2016)  
+**Ph.D., Industrial & Management Systems Engineering** — University of Nebraska–Lincoln (2006)  
+**M.S., Industrial & Management Systems Engineering** — University of Nebraska–Lincoln (2002)  
+**M.S., Electrical Engineering** — Iran University of Science and Technology (1996)  
+**B.S., Electrical Engineering** — Sharif University of Technology (1991)
+
+---
+
+## Teaching Experience
+
+### California State University, Fullerton (2016–present)  
+**Full‑time Faculty (since 2017), Part‑time Faculty (2016–2017)**
+
+Courses taught:
+
+- Math 338 — *Statistics Applied to Natural Sciences* (Lecture + Lab)  
+- Math 335 — *Mathematical Probability*  
+- Math 120 — *Introductory Statistics*  
+- Math 502A — *Foundations of Probability and Statistics*  
+- Math 502B — *Computational Statistics and Data Analysis*  
+- Math 340 — *Numerical Analysis*
+
+Additional responsibilities:
+
+- Co‑coordinator for Math 338  
+- Developed and maintain a complete Canvas course template including:
+  - PowerPoints  
+  - Recorded presentations  
+  - Pre‑lecture quizzes  
+  - Lab assignments  
+  - Homework (Canvas + XYZ Homework)  
+  - Course project  
+- Advising undergraduate and graduate students  
+- Collaborating with faculty in mathematics and biology research
+
+Workshops delivered:
+
+- *Tools & Tricks for Adding Mathematical Expressions to Reports* — CCAM Workshop (2020)  
+- *BSCR Data Science Workshop* — Bridges to Stem Cell Research Program (2023)
+
+### University of Nebraska–Lincoln  
+**Teaching Assistant**
+
+- Taught *Engineering Economy* and *Statistical Methods in Research*  
+- Served as substitute instructor for additional courses
+
+---
+
+## Examples of Teaching Materials & Tools Developed
+
+- Online quizzes (Canvas, Moodle)  
+- Homework/assessment systems (MyMathLab, WebAssign, ALEKS, Sapling, XYZ Homework)  
+- HTML‑based teaching materials for Math 338  
+- PowerPoint slide decks for multiple courses  
+- Word‑based handouts for Math 335  
+- Recorded lecture videos for blended/flipped instruction  
+- WebR‑enabled interactive teaching tools
+
+---
+
+## Grants, Fellowships & Professional Development
+
+### 2024
+- Crafting Authentic Writing Opportunities for Students (WAC)  
+- Equitable Pedagogy Module (EPM) 2a  
+
+### 2023
+- META TEAM Tool Observation Participation  
+- META Faculty Facilitator  
+- Project PIPE‑LINE Fellow  
+- Collaboration with Alzheimer’s Research Group (Prof. Sam Behseta)  
+- Social‑Behavioral Research Certification (CITI Program)  
+- Accessible Instructional Materials (AIM)  
+- Supported Biology MS student with experimental data analysis  
+
+### 2022
+- FEID Grant: *Blended/Flipped Version of Math 388 with Problem‑Based Teaching*  
+- Equitable Pedagogy Module (EPM)  
+- Supported Biology MS thesis on experimental evolution  
+
+### 2021
+- Supported Biology MS student with lab data analysis  
+- VRN: Virtual Research Network collaboration with Prof. Shahrestani  
+- COMMIT: Inquiry‑based teaching workshop  
+- UDL: Universal Design for Learning training  
+
+### 2020
+- FEID Grant: Development of Math 338 course materials  
+- HIP: High Impact Practices assessment for Math 338  
+- CCAM workshop presenter  
+
+### 2018–2019 (selected)
+- FEID Grant Proposal Workshop  
+- Active Engagement Strategies (IMPACT)  
+- Experts’ Notebooks for Writing (IMPACT)  
+- MINDFUL Certificate  
+- Engagement Tech Tools Webinar  
+- META‑FLC Faculty Learning Community  
+
+---
+
+## Personal Skills & Qualities
+
+- Problem solver  
+- Analytical thinker  
+- Team‑oriented  
+- Self‑motivated  
+- Equity‑minded educator  
+- Data‑driven decision maker  
+- Continuous learner  
+
+---
+
+## Technical Skills
+
+**Learning Management Systems:** Canvas, Moodle, Blackboard  
+**Online Homework Systems:** ALEKS, MyMathLab, Sapling, WebAssign, XYZ Homework  
+**Statistical Software:** R, SAS, SPSS, StatGraphics  
+**Computation & Simulation:** MATLAB, SIMAN, Arena  
+**Databases:** SQL, MS Access  
+**Programming (past use):** Ruby, C/C++, Visual Basic, Fortran, Pascal  
+**Productivity Tools:** Word, PowerPoint, Excel, Visio, SharePoint, Tableau  
+
+---
+
+## Publications
+
+### Refereed Journal Articles
+- Abdoli, M., Savory, P., & Choobineh, F. F. (2012). *Framework for simulating random clickstream data*. **International Journal of Electronic Marketing and Retailing**, 5(1), 63–76.  
+- Abdoli, M., & Choobineh, F. F. (2005). *Empirical Bayes forecasting methods for job flow‑times*. **IIE Transactions**, 37(7), 635–649.
+
+### Conference Papers
+- Abdoli, M., & Al‑Salim, B. (2005). *Intelligent agent‑based approach to sales operations at e‑stores*. AMCIS 2005.  
+- Al‑Salim, B., & Abdoli, M. (2005). *Data mining for decision support of the quality improvement process*. AMCIS 2005.  
+- Abdoli, M., Choobineh, F. (2003). *An integrated approach to sales at e‑stores*. ICECR‑6.  
+- Abdoli, M., Choobineh, F. (2003). *Empirical Bayes for forecasting flow‑times of jobs*. INFORMS Annual Meeting.  
+- Abdoli, M., Mashayekhi, M., & Choobineh, F. F. (2002). *An empirical Bayes approach to due‑date assignment*. IERC Conference.
+
+
+---
+
+## Industry Experience
+
+### Kiewit Infrastructure Co. (2006–2017)  
+Project Engineer / Estimator / Field Engineer  
+- Cost estimating, scheduling, and quantity takeoff  
+- Developed software tools for:
+  - Structural quantity takeoff (Ruby + SketchUp)  
+  - Underground piping takeoff (Excel)  
+  - Traffic management visualization (Google Earth + Excel)  
+- Delivered training for run‑of‑the‑river power plant operators (BC, Canada)
+
+### Mangan Industrial Group & Sadid Tadbir Consulting (Iran)
+Senior Electrical Engineer
+
+### Delliran Software Company (Iran)  
+Business Application Developer

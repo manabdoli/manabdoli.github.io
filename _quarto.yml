@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Mansour Abdoli"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+      - href: resume.qmd
+        text: Résumé
+      - href: about.qmd
+        text: About
+
+
+format:
+  html:
+    theme: cosmo
+
+# Enable blog-style posts
+listing:
+  contents: posts
+  sort: "date desc"

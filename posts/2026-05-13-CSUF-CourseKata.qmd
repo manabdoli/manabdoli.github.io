@@ -1,0 +1,13 @@
+---
+title:  "Adopting CourseKata for Math 338 @ CSUF"
+date:   2026-05-13 11:17:00 -0700
+categories: 
+  - Course-Material
+  - WebR-Tool
+---
+
+## CSUF Statistics using CourseKata
+Thanks to a grant from the [Gates Foundation](https://www.gatesfoundation.org/), we piloted using [CourseKata's](https://www.coursekata.org/) innovative approach to teaching statistics in [CSUF](fullerton.edu). 
+
+Materials provided in [CSUF_Stat_CK](https://manabdoli.github.io/CSUF_Stat_CK/) are produced to facilitate this adoption. Presentation slides use `WebR` to allow interactive R coding in browser. 
+

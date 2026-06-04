@@ -1,0 +1,87 @@
+---
+title: "Résumé"
+format:
+  html:
+    theme: cosmo
+    toc: false
+---
+
+# Mansour Abdoli, PhD
+Instructor & Course Coordinator • California State University, Fullerton
+[ORCID: 0009-0001-6722-0134](https://orcid.org/0009-0001-6722-0134)
+
+---
+
+## Profile
+
+Statistician and educator with multidisciplinary training in electrical engineering, industrial engineering, and statistics. Experienced in teaching undergraduate and graduate probability and statistics, developing reproducible instructional materials, and collaborating on interdisciplinary research. Skilled in educational technology, data analysis, and creating tools that support student learning and faculty workflows.
+
+---
+
+## Education
+
+**M.S., Statistics** — California State University, Fullerton
+**Ph.D., Industrial & Management Systems Engineering** — University of Nebraska–Lincoln
+**M.S., Industrial & Management Systems Engineering** — University of Nebraska–Lincoln
+**M.S., Electrical Engineering** — Iran University of Science and Technology
+**B.S., Electrical Engineering** — Sharif University of Technology
+
+---
+
+## Academic Experience
+
+### California State University, Fullerton
+**Instructor & Course Coordinator (2017–present)**
+Courses: Math 338, Math 335, Math 120, Math 502A/B, Math 340
+Highlights:
+- Co-coordinator for Math 338
+- Developed complete Canvas course templates
+- Created HTML-based and WebR-enabled teaching tools
+- Led workshops on mathematical communication and data science
+
+### University of Nebraska–Lincoln
+**Teaching Assistant**
+Taught *Engineering Economy* and *Statistical Methods in Research*
+
+---
+
+## Selected Publications
+
+- Abdoli, M., Savory, P., & Choobineh, F. F. (2012). *Framework for simulating random clickstream data*. **International Journal of Electronic Marketing and Retailing**, 5(1), 63–76.
+- Abdoli, M., & Choobineh, F. F. (2005). *Empirical Bayes forecasting methods for job flow‑times*. **IIE Transactions**, 37(7), 635–649.
+- Additional publications listed on ORCID: [0009-0001-6722-0134](https://orcid.org/0009-0001-6722-0134)
+
+---
+
+## Grants & Fellowships (Selected)
+
+- FEID Grant — Development of blended/flipped Math 338
+- Project PIPE-LINE Fellow
+- META Faculty Facilitator
+- VRN Collaboration (Biology)
+- AIM, UDL, and EPM training modules
+
+---
+
+## Technical Skills
+
+**Statistics & Computing:** R, MATLAB, SAS, SPSS, StatGraphics
+**Educational Tools:** Canvas, Moodle, ALEKS, MyMathLab, WebAssign, XYZ Homework
+**Programming:** SQL, Ruby, C/C++, Visual Basic (past use)
+**Productivity:** Word, PowerPoint, Excel, Tableau, SharePoint
+
+---
+
+## Industry Experience (Selected)
+
+**Kiewit Infrastructure Co. (2006–2017)**
+Project Engineer / Estimator / Field Engineer
+- Developed engineering software tools (Ruby, SketchUp, Excel)
+- Cost estimating, scheduling, and quantity takeoff
+- Delivered technical training for power plant operators
+
+**Mangan Industrial Group & Sadid Tadbir Consulting**
+Senior Electrical Engineer
+
+**Delliran Software Company**
+Business Application Developer

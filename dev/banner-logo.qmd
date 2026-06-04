@@ -1,0 +1,183 @@
+---
+title: "banner-logo"
+format: html
+---
+
+You’re asking exactly the right question at exactly the right moment.  
+Once you switch from **Jekyll/Distill → Quarto**, your old logo and banner references no longer work unless you explicitly re‑add them.
+
+Let me walk you through **where your logo and banner were used before**, and **how to re‑add them cleanly in Quarto**.
+
+---
+
+# ⭐ Where your logo and banner were used *before*
+Based on your earlier site structure and the files you shared, your logo and banner were almost certainly referenced in one of these places:
+
+### **1. `_config.yml` (Jekyll)**
+You likely had something like:
+
+```yaml
+logo: /assets/logo.png
+header_image: /assets/banner.jpg
+```
+
+or inside a theme block.
+
+### **2. `_site.yml` (Distill)**
+Distill sites often used:
+
+```yaml
+navbar:
+  logo: images/logo.png
+```
+
+or
+
+```yaml
+theme:
+  header: images/banner.jpg
+```
+
+### **3. HTML templates in `_includes/`**
+If you had a custom header, it might have been inserted manually.
+
+### **4. Markdown pages referencing images**
+For example:
+
+```markdown
+![](assets/banner.jpg)
+```
+
+or
+
+```markdown
+<img src="assets/logo.png">
+```
+
+Since you removed Jekyll and Distill files, those references disappeared.
+
+---
+
+# ⭐ How to re‑add your logo and banner in **Quarto**
+
+Quarto uses **_quarto.yml** for all site‑wide configuration.
+
+Here’s how to add each element cleanly.
+
+---
+
+# ⭐ 1. Add your **logo** to the navbar
+
+Place your logo here:
+
+```
+assets/images/logo.png
+```
+
+Then add this to `_quarto.yml`:
+
+```yaml
+website:
+  navbar:
+    logo: assets/images/logo.png
+```
+
+This will show your logo on every page.
+
+---
+
+# ⭐ 2. Add your **banner** to the homepage
+
+If you want a hero banner at the top of `index.qmd`, use:
+
+```markdown
+![](assets/images/banner.jpg){.hero}
+```
+
+Or a full‑width banner:
+
+```markdown
+![](assets/images/banner.jpg){width=100%}
+```
+
+If you want a more polished hero section, here’s a clean version:
+
+```markdown
+<div class="hero-banner">
+  <img src="assets/images/banner.jpg" style="width:100%; border-radius: 8px;">
+</div>
+```
+
+---
+
+# ⭐ 3. Add a **favicon** (optional but recommended)
+
+Place:
+
+```
+assets/images/favicon.png
+```
+
+Then add to `_quarto.yml`:
+
+```yaml
+website:
+  favicon: assets/images/favicon.png
+```
+
+---
+
+# ⭐ 4. Make sure Quarto includes your assets
+
+Quarto automatically copies everything **except** what you exclude in `.quartoignore`.
+
+So your structure should be:
+
+```
+assets/
+  images/
+    logo.png
+    banner.jpg
+    favicon.png
+```
+
+No extra configuration needed.
+
+---
+
+# ⭐ 5. If you want a polished homepage with logo + banner
+
+Here’s a clean, modern header you can paste into `index.qmd`:
+
+```markdown
+<div style="text-align:center; margin-bottom: 2rem;">
+  <img src="assets/images/logo.png" style="height:120px; border-radius: 50%;">
+</div>
+
+![](assets/images/banner.jpg){width=100%}
+
+# Mansour Abdoli, PhD
+Instructor & Course Coordinator • California State University, Fullerton
+```
+
+---
+
+# ⭐ Summary — What you need to do now
+
+### ✔ Move your images from `gh-pages` → `main/assets/images/`  
+### ✔ Add logo to `_quarto.yml`  
+### ✔ Add banner to `index.qmd`  
+### ✔ Publish again with `quarto publish gh-pages`
+
+Your site will rebuild with your branding restored.
+
+---
+
+If you want, I can also:
+
+- **design a custom hero section**  
+- **create a professional banner layout**  
+- **add a profile photo card**  
+- **style your navbar with your logo colors**  
+
+Just tell me the look you want.
