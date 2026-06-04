@@ -11,9 +11,11 @@ Statistician • Educator • Developer of Teaching Tools
 
 ::: {.callout-note}
 **Quick Links**  
+
 - [Curriculum Vitæ](cv.qmd)  
 - [Résumé](resume.qmd)  
 - [Research](research.qmd)  
+
 :::
 
 ---

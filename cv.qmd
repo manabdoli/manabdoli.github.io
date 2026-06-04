@@ -14,7 +14,12 @@ format:
 [ORCID: 0009-0001-6722-0134](https://orcid.org/0009-0001-6722-0134)
 
 ::: {.callout-note}
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`{.btn .btn-primary}
+**Quick Links** 
+
+- [Curriculum Vitæ](cv.qmd)  
+- [Résumé](resume.qmd)  
+- [Research](research.qmd)  
+
 :::
 
 ---
