@@ -1,14 +1,20 @@
 const CACHE = 'quickpdf-v1';
+const BASE = '/quickpdf/';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/pdfjs/pdf.min.js',
-  '/pdfjs/pdf.worker.min.js',
+  BASE,
+  `${BASE}index.html`,
+  `${BASE}pdfjs/pdf.min.js`,
+  `${BASE}pdfjs/pdf.worker.min.js`,
 ];
 
 self.addEventListener('install', (e) => {
   e.waitUntil(
-    caches.open(CACHE).then(cache => cache.addAll(ASSETS))
+    caches.open(CACHE)
+      .then(cache => cache.addAll(ASSETS))
+      .catch(err => {
+        console.error('Cache addAll failed:', err);
+        // Don't block install if caching fails
+      })
   );
   self.skipWaiting();
 });
