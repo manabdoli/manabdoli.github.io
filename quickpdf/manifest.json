@@ -1,7 +1,8 @@
 {
   "name": "Quick PDF",
   "short_name": "QuickPDF",
-  "start_url": "/",
+  "start_url": "/quickpdf/",
+  "scope": "/quickpdf/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#646cff",
